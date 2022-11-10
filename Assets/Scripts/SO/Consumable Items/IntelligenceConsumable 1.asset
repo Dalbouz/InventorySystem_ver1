@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d18577885f705044887cef2452d7c1dc, type: 3}
+  m_Name: IntelligenceConsumable 1
+  m_EditorClassIdentifier: 
+  itemType: 1
+  ItemPrefab: {fileID: 1226386833327903540, guid: 46dc974dc7c6dd6489853ef32a926f3b,
+    type: 3}
+  ImageSprite: {fileID: 21300000, guid: b2070c991c31c754084c3e56b9980c5b, type: 3}
+  GainType: 4
+  AmountGain: 25
+  LimitlessItem: 0
+  BonusGainTime: 5
+  HoldBonusValueOverTime: 1
+  RampValueOverTime: 0
+  ChangeValueOverTime: 0
+  ItemsInfoDisplay: {fileID: 11400000, guid: 494874064d3f76b4e9c1aecafa96c8bf, type: 2}
+  IsItemInInvetory: 0
+  PowerUpTypes: 0

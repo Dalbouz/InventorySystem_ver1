@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d18577885f705044887cef2452d7c1dc, type: 3}
+  m_Name: PoisonConsumable 1
+  m_EditorClassIdentifier: 
+  itemType: 1
+  ItemPrefab: {fileID: 8599807710121682135, guid: 4e3eb0420e27d59489d272de9ebe9705,
+    type: 3}
+  ImageSprite: {fileID: 21300000, guid: 7cc3bddd702d40b4c9d06ea2f7299b9a, type: 3}
+  GainType: 5
+  AmountGain: -50
+  LimitlessItem: 1
+  BonusGainTime: 5
+  HoldBonusValueOverTime: 0
+  RampValueOverTime: 0
+  ChangeValueOverTime: 1
+  ItemsInfoDisplay: {fileID: 11400000, guid: ec0f61298b57a3c4494692a728aa5139, type: 2}
+  IsItemInInvetory: 0
+  PowerUpTypes: 0
